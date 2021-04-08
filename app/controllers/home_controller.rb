@@ -5,7 +5,4 @@ class HomeController < ApplicationController
   end
   def lang
   end
-  def game
-    @game = "show"
-  end
 end
